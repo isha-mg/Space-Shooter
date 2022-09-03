@@ -10,5 +10,7 @@ To play this game, you need to download all the files in this repo and open **Sp
 
 
 
-https://user-images.githubusercontent.com/88032311/188270126-6e5c24c8-b720-4d5e-88c7-fb4757a6c4d7.mp4
+
+https://user-images.githubusercontent.com/88032311/188283291-3c838c2f-8ac0-42ce-8527-46cad420df0e.mp4
+
 
